@@ -1,0 +1,20 @@
+[
+    {
+        "ID":"3",
+        "Broj":"0603147764",
+        "Operater":"BH Telecom",
+        "Datum":"2020-04-16",
+        "Tip_Algoritma_Koristen":"JSON TEST1",
+        "Prodan":"1",
+        "BrInvoice":"2"
+    },
+    {
+        "ID":"4",
+        "Broj":"0683147764",
+        "Operater":"BH Telecom",
+        "Datum":"2020-04-16",
+        "Tip_Algoritma_Koristen":"JSON TEST2",
+        "Prodan":"0",
+        "BrInvoice":"5"
+    }
+]
