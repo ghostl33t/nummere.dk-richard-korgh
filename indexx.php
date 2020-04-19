@@ -1,6 +1,6 @@
 <?php  
  //index.php  
- 
+///// JABUIKE SU BILE SLATKEE TNTNTNT 
      //LoginCheck
      $logConn = mysqli_connect('localhost','root','','testbaza');
      $query = "SELECT Logovan FROM users WHERE id = 2";
